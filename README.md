@@ -32,10 +32,8 @@ Projenin işlevselliği, kullanıcılara restoran operasyonlarını kolayca yön
 - **Masa Durumu Güncelleme:** Kullanıcılar, masaların durumunu güncelleyerek restoranın anlık doluluk durumunu izleyebilirler.
 - **Rapor Oluşturma:** Kullanıcılar, belirli tarih aralıklarına göre sipariş raporları oluşturup değerlendirilebilirler.
 
-**4. Teknik Detaylar**
-
 Proje, Java programlama dili ile geliştirilmiştir ve MySQL veritabanı kullanmaktadır. JDBC (Java Database Connectivity) kullanılarak veritabanı bağlantısı sağlanmıştır. Swing kütüphanesi, kullanıcı arayüzü bileşenlerinin oluşturulmasında kullanılmıştır.
 
 #### Sonuç
 
-Restoran projesi, restoran yönetimini daha etkin ve verimli hale getirmek için tasarlanmış kapsamlı bir çözümdür. Kullanıcı dostu arayüzü ve güçlü veritabanı yapısı ile restoran çalışanlarının iş süreçlerini kolaylaştırır. Bu proje, restoranların günlük operasyonlarını daha düzenli ve kontrol edilebilir hale getirerek, iş verimliliğini ve karlılığı artırmayı amaçlamaktadır.
+Restoran projesi, restoran yönetimini daha etkin ve verimli hale getirmek için tasarlanmış kapsamlı bir çözümdür. Kullanıcı dostu arayüzü ve güçlü veritabanı yapısı ile restoran çalışanlarının iş süreçlerini kolaylaştırır. Bu proje, restoranların günlük operasyonlarını daha düzenli ve kontrol edilebilir hale getirerek, iş verimliliğini ve kârlılığı artırmayı amaçlamaktadır.
